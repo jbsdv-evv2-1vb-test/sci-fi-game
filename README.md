@@ -12,6 +12,6 @@ Learn more about us at https://100roadsdesign.com.
 
 # About the map
 
-![map](learning-lab.png)
+![map](map-readme.png)
 
 The map is called Learning Lab and ..... sddsvdfevg 
