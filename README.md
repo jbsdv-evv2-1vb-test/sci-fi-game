@@ -1,7 +1,7 @@
 # 100 Roads Design
-
+<div style="width:60px ; height:60px">
 ![100 Roads Design logo](LOGO.svg)
-
+<div>
 100 Roads has been designing and innovating in the education space since 2016. Our founder, Catherine Fraise, first designed a physical campus at Workspace Education in Bethel CT.
 
 When lockdowns raised new problems, Catherine moved into developing online learning environments.
