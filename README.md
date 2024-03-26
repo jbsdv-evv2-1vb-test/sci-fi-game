@@ -1,6 +1,6 @@
-# WorkAdventure Map Starter Kit
+# 100 Roads Design
 
-![map](./map.png)
+![100 Roads Design logo](100roadsdesign-logo.jpg)
 
 This is a starter kit to help you build your own map for [WorkAdventure](https://workadventu.re).
 
